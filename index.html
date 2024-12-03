@@ -26,17 +26,24 @@
                     transform: scale(1);
                 }
                 100% {
-                    transform: scale(1.5);
+                    transform: scale(1.2);
                 }
             }
         </style>
+        <script>
+            function copyText(obj) {
+                let text = obj.innerText;
+                navigator.clipboard .writeText(text)
+            }
+        </script>
     </head>
     <body>
         <div class="content">
             <div class="txt-show">
-                <p>这是一个测试用的静态页面！</p>
+                <p><a href="https://github.com/lemtasev/tvboxlocalfile" target="_blank">Github仓库</a></p>
                 <p>ver20241202</p>
-                <p>https://lemtasev.github.io/tvboxlocalfile/tvboxqq/index.txt</p>
+                <p><a href="#" onclick="copyText(this)" title="点击复制github本地仓">https://lemtasev.github.io/tvboxlocalfile/tvboxqq/index.txt</a></p>
+                <p><a href="#" onclick="copyText(this)" title="点击复制原始仓">https://lemtasev.github.io/tvboxlocalfile/remote.txt</a></p>
             </div>
         </div>
     </body>
