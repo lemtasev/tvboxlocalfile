@@ -1,8 +1,38 @@
 <html>
     <head>
         <title>TVBOX local file</title>
+        <style>
+            body {
+                margin: 0;
+                padding: 0;
+            }
+            .content {
+                width: 100vw;
+                height: 100vh;
+                background-color: coral;
+                display: flex;
+                align-items: center;
+                justify-content: center;
+            }
+            .txt-show {
+                font-size: xx-large;
+                font-weight: bolder;
+                animation: breathe 1.7s ease infinite alternate;
+            }
+            @keyframes 
+            breathe {
+                0% {
+                    transform: scale(1.5);
+                }
+                100% {
+                    transform: scale(2);
+                }
+            }
+        </style>
     </head>
     <body>
-        这是一个测试用的静态页面！
+        <div class="content">
+            <div class="txt-show">这是一个测试用的静态页面！</div>
+        </div>
     </body>
 </html>
