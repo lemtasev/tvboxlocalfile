@@ -32,7 +32,8 @@
         </style>
         <script>
             function copyText(obj) {
-                let text = obj.innerText;
+                // let text = obj.innerText;
+                let text = obj.title;
                 navigator.clipboard .writeText(text)
             }
         </script>
@@ -41,9 +42,12 @@
         <div class="content">
             <div class="txt-show">
                 <p><a href="https://github.com/lemtasev/tvboxlocalfile" target="_blank">Github仓库</a></p>
-                <p>ver20241202</p>
-                <p><a href="#" onclick="copyText(this)" title="点击复制github本地仓">https://lemtasev.github.io/tvboxlocalfile/tvboxqq/index.txt</a></p>
-                <p><a href="#" onclick="copyText(this)" title="点击复制原始仓">https://lemtasev.github.io/tvboxlocalfile/remote.txt</a></p>
+                <p>ver 20250122</p>
+                <p><a href="#" onclick="copyText(this)" title="https://lemtasev.github.io/tvboxlocalfile/remote.txt">点击复制在线仓库</a></p>
+                <p><a href="#" onclick="copyText(this)" title="https://lemtasev.github.io/tvboxlocalfile/tvboxqq/i-g.txt">点击复制github本地仓</a></p>
+                
+                <p><a href="#" onclick="copyText(this)" title="https://lemtasev.netlify.app/remote.txt">点击复制在线仓库（netlify）</a></p>
+                <p><a href="#" onclick="copyText(this)" title="https://lemtasev.netlify.app/tvboxqq/i-cdn.txt">点击复制github本地仓（netlify）</a></p>
             </div>
         </div>
     </body>
