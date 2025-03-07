@@ -41,10 +41,12 @@
                 left: 50px;
                 top: 50px;
                 transform: rotate(-30deg);
+                animation: pic-breathe 7s ease-in-out infinite alternate;
             }
             .picture > img {
                 width: 100%;
             }
+            /* 定义呼吸动画 */
             @keyframes 
             breathe {
                 0% {
@@ -54,6 +56,16 @@
                     transform: scale(1.05);
                 }
             }
+            @keyframes 
+            pic-breathe {
+                0% {
+                    transform: scale(1) rotate(-30deg);
+                }
+                100% {
+                    transform: scale(1.05) rotate(-25deg);
+                }
+            }
+            /* 定义呼吸动画 */
             .part > a {
                 margin-right: 20px;
             }
