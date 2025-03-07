@@ -16,11 +16,12 @@
             body {
                 margin: 0;
                 padding: 0;
+                background-color: var(--bg-color);
             }
             .content {
-                width: 100vw;
+                margin-left: 40vw;
+                width: 60vw;
                 height: 100vh;
-                background-color: var(--bg-color);
                 display: flex;
                 align-items: center;
                 justify-content: center;
@@ -30,6 +31,19 @@
                 font-size: xx-large;
                 font-weight: bolder;
                 animation: breathe 5s ease infinite alternate;
+            }
+            .picture {
+                padding: 1%;
+                width: 800px;
+                background-color: white;
+                box-shadow: 0 0 5px gray;
+                position: fixed;
+                left: 50px;
+                top: 50px;
+                transform: rotate(-30deg);
+            }
+            .picture > img {
+                width: 100%;
             }
             @keyframes 
             breathe {
@@ -76,6 +90,7 @@
         </script>
     </head>
     <body>
+        <div class="picture"><img src="./img/zelda.png"></div>
         <div class="content">
             <div class="txt-show">
                 <p class="part">
