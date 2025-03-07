@@ -20,10 +20,6 @@
 
 { "url": "clan://localhost/tvboxqq/香雅情/api.json", "name": "香雅情" },
 
-{ "url": "clan://localhost/tvboxqq/骚零/api.json", "name": "骚零" },
-
 { "url": "clan://localhost/tvboxqq/戏曲音乐/api.json", "name": "戏曲音乐" },
-
-{ "url": "clan://localhost/tvboxqq/短剧频道/api.json", "name": "短剧频道" },
 
 { "url": "clan://localhost/tvboxqq/少儿频道/api.json", "name": "少儿频道" }]}

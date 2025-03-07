@@ -1,33 +1,31 @@
 { 
     "urls": [
-        { "url": "https://lemtasev.github.io/tvboxlocalfile/tvboxqq/饭太硬/api.json", "name": "饭太硬（github）" },
+        { "url": "https://lemtasev.github.io/tvboxlocalfile/tvboxqq/饭太硬/api.json", "name": "版本25.03.07" },
 
-        { "url": "https://lemtasev.github.io/tvboxlocalfile/tvboxqq/小米/api.json", "name": "小米（github）" },
+        { "url": "https://lemtasev.github.io/tvboxlocalfile/tvboxqq/饭太硬/api.json", "name": "饭太硬[github]" },
 
-        { "url": "https://lemtasev.github.io/tvboxlocalfile/tvboxqq/肥猫/api.json", "name": "肥猫（github）" },
+        { "url": "https://lemtasev.github.io/tvboxlocalfile/tvboxqq/小米/api.json", "name": "小米[github]" },
 
-        { "url": "https://lemtasev.github.io/tvboxlocalfile/tvboxqq/王二小/api.json", "name": "王二小（github）" },
+        { "url": "https://lemtasev.github.io/tvboxlocalfile/tvboxqq/肥猫/api.json", "name": "肥猫[github]" },
 
-        { "url": "https://lemtasev.github.io/tvboxlocalfile/tvboxqq/摸鱼儿/api.json", "name": "摸鱼儿（github）" },
+        { "url": "https://lemtasev.github.io/tvboxlocalfile/tvboxqq/王二小/api.json", "name": "王二小[github]" },
 
-        { "url": "https://lemtasev.github.io/tvboxlocalfile/tvboxqq/欧歌/api.json", "name": "欧歌（github）" },
+        { "url": "https://lemtasev.github.io/tvboxlocalfile/tvboxqq/摸鱼儿/api.json", "name": "摸鱼儿[github]" },
 
-        { "url": "https://lemtasev.github.io/tvboxlocalfile/tvboxqq/潇洒/api.json", "name": "潇洒（github）" },
+        { "url": "https://lemtasev.github.io/tvboxlocalfile/tvboxqq/欧歌/api.json", "name": "欧歌[github]" },
 
-        { "url": "https://lemtasev.github.io/tvboxlocalfile/tvboxqq/天微/api.json", "name": "天微（github）" },
+        { "url": "https://lemtasev.github.io/tvboxlocalfile/tvboxqq/潇洒/api.json", "name": "潇洒[github]" },
+
+        { "url": "https://lemtasev.github.io/tvboxlocalfile/tvboxqq/天微/api.json", "name": "天微[github]" },
         
-        { "url": "https://lemtasev.github.io/tvboxlocalfile/tvboxqq/南风/api.json", "name": "南风（github）" },
+        { "url": "https://lemtasev.github.io/tvboxlocalfile/tvboxqq/南风/api.json", "name": "南风[github]" },
 
-        { "url": "https://lemtasev.github.io/tvboxlocalfile/tvboxqq/香雅情/api.json", "name": "香雅情（github）" },
+        { "url": "https://lemtasev.github.io/tvboxlocalfile/tvboxqq/香雅情/api.json", "name": "香雅情[github]" },
 
-        { "url": "https://lemtasev.github.io/tvboxlocalfile/tvboxqq/天天开心/api.json", "name": "天天开心（github）" },
+        { "url": "https://lemtasev.github.io/tvboxlocalfile/tvboxqq/天天开心/api.json", "name": "天天开心[github]" },
 
-        { "url": "https://lemtasev.github.io/tvboxlocalfile/tvboxqq/骚零/api.json", "name": "骚零（github）" },
+        { "url": "https://lemtasev.github.io/tvboxlocalfile/tvboxqq/戏曲音乐/api.json", "name": "戏曲音乐[github]" },
 
-        { "url": "https://lemtasev.github.io/tvboxlocalfile/tvboxqq/戏曲音乐/api.json", "name": "戏曲音乐（github）" },
-
-        { "url": "https://lemtasev.github.io/tvboxlocalfile/tvboxqq/短剧频道/api.json", "name": "短剧频道（github）" },
-
-        { "url": "https://lemtasev.github.io/tvboxlocalfile/tvboxqq/少儿频道/api.json", "name": "少儿频道（github）" }
+        { "url": "https://lemtasev.github.io/tvboxlocalfile/tvboxqq/少儿频道/api.json", "name": "少儿频道[github]" }
     ]
 }
