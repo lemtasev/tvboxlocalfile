@@ -1,7 +1,7 @@
 { 
     "urls": [
-        { "name": "版本25.03.07", "url": "http://www.饭太硬.com/tv/" },
-        { "name": "饭太硬[在线]", "url": "http://www.饭太硬.com/tv/" },
+        { "name": "版本25.04.10", "url": "http://www.饭太硬.net/tv" },
+        { "name": "饭太硬[在线]", "url": "http://www.饭太硬.net/tv" },
         { "name": "小米[在线]", "url": "https://mpanso.me/DEMO.json" },
         { "name": "肥猫[在线]", "url": "http://肥猫.com" },
         { "name": "王二小[在线]", "url": "http://tvbox.王二小放牛娃.top" },
