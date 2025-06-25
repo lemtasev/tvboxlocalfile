@@ -1,6 +1,6 @@
 { 
     "urls": [
-        { "name": "版本[25.06.25][gitee]", "url": "http://www.饭太硬.com/tv" },
+        { "name": "版本[25.06.25][github]", "url": "http://www.饭太硬.com/tv" },
 
         { "name": "饭太硬[在线]", "url": "http://www.饭太硬.net/tv" },
         { "name": "宝盒接口[在线]", "url": "http://宝盒接口.top" },
