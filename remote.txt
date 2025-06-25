@@ -1,22 +1,26 @@
 { 
     "urls": [
-        { "name": "版本[25.06.25]", "url": "http://www.饭太硬.com/tv" },
+        { "name": "版本[25.06.25][gitee]", "url": "http://www.饭太硬.com/tv" },
 
         { "name": "饭太硬[在线]", "url": "http://www.饭太硬.net/tv" },
+        { "name": "宝盒接口[在线]", "url": "http://宝盒接口.top" },
+        { "name": "快乐接口[在线]", "url": "http://影视仓接口.top" },
         { "name": "OK[在线]", "url": "http://ok321.top/tv" },
         { "name": "王二小[在线]", "url": "http://tvbox.王二小放牛娃.top" },
         { "name": "巧技[在线]", "url": "http://cdn.qiaoji8.com/tvbox.json" },
         { "name": "菜妮丝[在线]", "url": "https://tv.xn--yhqu5zs87a.top" },
         { "name": "肥猫[在线]", "url": "http://肥猫.com" },
         { "name": "天微[在线]", "url": "https://7337.kstore.space/twvip/自用测试.json" },
-        { "name": "短剧频道[在线]", "url": "http://box.ufuzi.com/tv/qq/短剧频道/api.json" },
-        { "name": "少儿频道[在线]", "url": "https://jihulab.com/ymz1231/xymz/-/raw/main/ymshaoer" },
-        { "name": "吃猫的鱼[在线]", "url": "https://d.kstore.dev/download/7213/吃猫的鱼" },
         { "name": "潇洒[在线]", "url": "https://9877.kstore.space/AnotherD/api.json" },
         { "name": "欧歌[在线]", "url": "http://tv.nxog.top/m/" },
         { "name": "南风[在线]", "url": "https://gh-proxy.com/https://raw.githubusercontent.com/yoursmile66/TVBox/main/XC.json" },
         { "name": "香雅情[在线]", "url": "https://gh-proxy.com/https://raw.githubusercontent.com/xyq254245/xyqonlinerule/main/XYQTVBox.json" },
+        { "name": "短剧频道[在线]", "url": "http://box.ufuzi.com/tv/qq/短剧频道/api.json" },
+        { "name": "少儿频道[在线]", "url": "https://jihulab.com/ymz1231/xymz/-/raw/main/ymshaoer" },
         
-        { "name": "源[github]", "url": "https://www.饭太硬.com/" }
+        { "name": "吃猫的鱼[在线]", "url": "https://d.kstore.dev/download/7213/吃猫的鱼" },
+        { "name": "戏曲相声[在线]", "url": "https://d.kstore.dev/download/10759/api/xiqu.json" },
+        { "name": "儿童教育[在线]", "url": "https://d.kstore.dev/download/10759/api/zhijiao.json" },
+        { "name": "音乐接口[在线]", "url": "https://d.kstore.dev/download/10759/api/yinyue.json" }
     ]
 }
